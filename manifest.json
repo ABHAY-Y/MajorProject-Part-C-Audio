@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Detect Domestic Violence in Audio",
+    "description": "Detection of Domestic Violence in audio",
+    "version": "1.0",
+    "action": {
+    "default_popup": "audiofile.html"
+    },
+    "permissions":["activeTab"]
+}
